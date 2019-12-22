@@ -1,10 +1,14 @@
-1) Скачуєм з офіційного сайту compass
+1)Скачуєм монго з офіційного сайту 
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
+2) Скачуєм з офіційного сайту compass
 
 https://www.mongodb.com/download-center/compass
 
-2) Потрібно зайти в деректорію куда ми скачали файл (компас)розпакувати через команду
+3) Потрібно зайти в деректорію куда ми скачали файл (компас)розпакувати через команду
 sudo dpkg -i mongodb-compass_1.20.3_amd64.deb
 
 але через те що виникає помилка розпакувати потрібно через графічний інтерфейс
 
+====Таймшифт==
 https://maddot.ru/sozdat-tochki-vosstanovleniya-sistemyi-ubuntu.html
